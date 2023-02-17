@@ -5,7 +5,7 @@ function pairImpair(x) {
             return console.log(`Pair`);
             break;
         case 1:
-            return console.log(`impair`);
+            return console.log(`Impair`);
             break;
 
 
