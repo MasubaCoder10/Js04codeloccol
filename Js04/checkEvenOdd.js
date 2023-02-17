@@ -2,10 +2,10 @@ function pairImpair(x) {
     let z = (x % 2)
     switch (z) {
         case 0:
-            return console.log(`Impair`);
+            return console.log(`Pair`);
             break;
         case 1:
-            return console.log(`Pair`);
+            return console.log(`impair`);
             break;
 
 
